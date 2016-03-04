@@ -1,6 +1,6 @@
 # Spotifynd
 
-A collaborative platform for friends to collaboratively plan trip itineraries. 
+A collaborative platform for friends to plan trip itineraries. 
 
 1. npm install
 2. bower install
