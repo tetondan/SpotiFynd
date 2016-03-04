@@ -1,6 +1,6 @@
 # Spotifynd
 
-Find a spot to travel
+A collaborative platform for friends to collaboratively plan trip itineraries. 
 
 1. npm install
 2. bower install
